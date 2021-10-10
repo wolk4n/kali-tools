@@ -4,6 +4,7 @@ Bu programlar sadece Kali Linux' da var olan programların kolay kullanılması 
 ---
 
 ## Programların İndirilmesi ve Kullanılması
-*
-*
-*
+* `git clone https://github.com/wolkann/kali-tools`
+* `cd kali-tools`
+* `cd tools`
+* `python "programın ismi"`
