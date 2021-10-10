@@ -8,3 +8,8 @@ Bu programlar sadece Kali Linux' da var olan programların kolay kullanılması 
 * `cd kali-tools`
 * `cd tools`
 * `python "programın ismi"`
+
+---
+
+## UYARI
+Programları kötü amaçlı kullanmayınız. Aksi takdirde kullanılması toplumsal ve hukuki sorumluluk doğurabilir. Olası her durumda mesuliyet ilgili kişiye aittir.
