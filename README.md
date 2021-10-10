@@ -1,4 +1,4 @@
-# EASY-HACK
+# kali-tools
 Bu programlar sadece Kali Linux' da var olan programların kolay kullanılması için yazılmıştır. **Sıfırdan yazılan hack programları değildir!** Programları sağlıklı kullanabilmek için _Kali Linux_ işletim sistemini kullanınız.
 
 ---
